@@ -43,22 +43,8 @@ Each model is trained on a processed dataset and evaluated using **accuracy, cla
 
 ## Predicting Churn for a Specific Customer
 The script includes a feature to predict churn for a specific customer. Modify the `customer_data` dictionary in the script to input new customer details, and the model will predict if the customer is likely to churn.
-
-### Example Output
-```
-Random Forest Accuracy: 0.85
-              precision    recall  f1-score   support
-
-           0       0.85      0.92      0.88      1033
-           1       0.78      0.64      0.70       374
-
-Predicted Churn: No
-```
-
-## Next Steps
-- **Hyperparameter tuning**: Improve model performance using GridSearchCV.
-- **Feature selection**: Identify the most important features contributing to churn.
-- **Deployment**: Build an API to serve predictions for customer churn.
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## License
 This project is open-source and available for educational purposes.
