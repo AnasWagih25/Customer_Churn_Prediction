@@ -44,8 +44,6 @@ Each model is trained on a processed dataset and evaluated using **accuracy, cla
 ## Predicting Churn for a Specific Customer
 The script includes a feature to predict churn for a specific customer. Modify the `customer_data` dictionary in the script to input new customer details, and the model will predict if the customer is likely to churn.
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## License
-This project is open-source and available for educational purposes.
 
